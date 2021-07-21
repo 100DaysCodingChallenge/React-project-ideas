@@ -33,5 +33,8 @@
 14. If user selects yes, student will be removed and pop up would close.If user clicks no, pop would hide and user wont be deleted.
 15. Showcase total numbers of students,  total number of student with  different countries, cities & statuses would be displayed in cards.
 
+**Student Data Model:-**
+
+[DUMMY DATA](https://github.com/100DaysCodingChallenge/React-project-ideas/blob/main/Project1.json)
 
 ![image](https://user-images.githubusercontent.com/80748214/126442164-b38546d4-c9f2-4a38-88fb-87efa794238d.png)
