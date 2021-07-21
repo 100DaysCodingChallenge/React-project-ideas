@@ -1,0 +1,20 @@
+[
+  {
+    name:"Swayam Rout",
+    code:1001,
+    address:{country:"India",city:"Mumbai"},
+    status:"active"
+},
+{
+    name:"Johnson Jones",
+    code:1002,
+    address:{country:"USA",city:"California"},
+    status:"inactive"
+},
+{
+    name:"Jeevan Ray",
+    code:1003,
+    address:{country:"Germany",city:"Bamberg"},
+    status:"inprogress"
+}
+]
